@@ -23,22 +23,22 @@ Compare model performances.
 Build a robust pipeline for sentiment prediction.
 
 # Technologies Used
-Programming Language: Python
-Libraries:
+## Programming Language: Python
+## Libraries:
 NLTK
 Pandas
 NumPy
 Matplotlib & Seaborn
-Development Environment: Jupyter Notebook
+## Development Environment: Jupyter Notebook
 
 # Model Workflow
-Data Preprocessing:
+## Data Preprocessing:
        Text is cleaned, tokenized, and transformed into numerical features (TF-IDF).
-Model Training:
+## Model Training:
         Models like Naive Bayes and Logistic Regression are trained.
         Cross-validation is used to evaluate performance.
-Evaluation:
+## Evaluation:
         Metrics like Accuracy, Precision, Recall, and F1-score are calculated.
-Prediction:
+## Prediction:
         New reviews can be classified into positive, negative or neutral sentiments.
 
