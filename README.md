@@ -42,3 +42,6 @@ Matplotlib & Seaborn
 ## Prediction:
         New reviews can be classified into positive, negative or neutral sentiments.
 
+# Acknowledgments
+Inspiration from various open-source sentiment analysis projects.
+
